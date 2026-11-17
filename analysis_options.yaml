@@ -1,0 +1,10 @@
+analyzer:
+  language:
+    strict-casts: true
+linter:
+  rules:
+    avoid_print: true
+    valid_regexps: true
+    use_build_context_synchronously: true
+    cancel_subscriptions: true
+    close_sinks: true
